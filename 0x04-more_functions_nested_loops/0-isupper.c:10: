@@ -1,0 +1,4 @@
+supper.c:10: warning: No description found for parameter or member 'c'
+0-isupper.c:10: warning: No description found for return value of '_isupper'
+_isupper
+
