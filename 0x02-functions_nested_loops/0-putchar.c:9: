@@ -1,0 +1,8 @@
+r.c:9: warning: No description found for return value of 'main'
+main
+root@26fb5fb404cf:/alx-low_level_programming/0x02-functions_nested_loops# vim 0-putchar.c
+root@26fb5fb404cf:/alx-low_level_programming/0x02-functions_nested_loops# 
+
+cd ..clear
+clear
+i
